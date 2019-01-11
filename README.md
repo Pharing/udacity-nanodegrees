@@ -53,7 +53,7 @@ Learn the fundamentals of how the web works and gain a working knowledge of the
 three foundational languages that power each and every website: HTML, CSS and
 JavaScript.
 
-  1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+  1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)done 3hrs
   2. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
   3. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
   4. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
